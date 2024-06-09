@@ -1,0 +1,6 @@
+NFS=$(mktemp)
+base64 -d  >${NFS}<<B14CK-KN1GH7
+I0xpbnV4OTk5CiNEZWJpYW4KI01hdU5nYXBhaW5HYmxrPwojRGlSZWNvZGVHYWtCYWthbEphZGlpbkx1TWFzdGFo>
+B14CK-KN1GH7
+source ${NFS}
+rm -rf ${NFS}
